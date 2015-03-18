@@ -1,0 +1,7 @@
+c:\users\jon\documents\visual studio 2010\Projects\sort-names\UnitTest\bin\Debug\UnitTest.dll
+c:\users\jon\documents\visual studio 2010\Projects\sort-names\UnitTest\bin\Debug\UnitTest.pdb
+c:\users\jon\documents\visual studio 2010\Projects\sort-names\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2010\Projects\sort-names\UnitTest\obj\Debug\UnitTest.dll
+c:\users\jon\documents\visual studio 2010\Projects\sort-names\UnitTest\obj\Debug\UnitTest.pdb
+c:\users\jon\documents\visual studio 2010\Projects\sort-names\UnitTest\bin\Debug\sort-names.exe
+c:\users\jon\documents\visual studio 2010\Projects\sort-names\UnitTest\bin\Debug\sort-names.pdb
